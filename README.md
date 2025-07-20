@@ -33,13 +33,11 @@ Go to Manage Game → Controller Layout
 
 Choose a recommended layout or configure one manually:
 
-D-Pad / Left Stick: Navigate
+D-Pad: Arrow Keys
 
 A / B (or Cross / Circle): Select / Back
 
-Start: Menu / Play
-
-Back: Options / Return
+Start: Play
 
 💡 YouTube TV supports most gamepad inputs natively, so minimal configuration is needed.
 
@@ -48,7 +46,7 @@ Ensure Big Picture Mode is enabled and Steam Input is configured
 
 Check that your controller is recognized in Steam settings
 
-If the app does not launch or opens in a window, force fullscreen via Steam launch options
+If the app does not launch or opens in a window, force fullscreen with F11.
 
 For Nativefier-specific issues or advanced customization, visit the Nativefier issue tracker.
 
@@ -56,8 +54,3 @@ For Nativefier-specific issues or advanced customization, visit the Nativefier i
 Want to customize or fork Youtube4Steam?
 
 The app was created with Nativefier, wrapping https://youtube.com/tv in an Electron shell. You can repackage it using Nativefier for advanced configuration or porting.
-
-Docs: Developer / build / hacking, API / flags,
-Changelog
-
-License: MIT
