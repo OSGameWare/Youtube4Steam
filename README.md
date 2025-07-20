@@ -1,3 +1,6 @@
+# Youtube4Steam
+Youtube4Steam is a Nativefier-based desktop wrapper for YouTube TV, designed for seamless controller support and fullscreen playback through Steam Big Picture Mode or Steam Deck.
+
 # Installation
 No build required — Youtube4Steam comes prepackaged and ready to launch.
 
