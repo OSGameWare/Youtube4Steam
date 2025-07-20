@@ -1,11 +1,11 @@
 # Youtube4Steam
 
-Introduction
+##Introduction
 Youtube4Steam delivers a true YouTube TV experience right inside Steam Big Picture Mode, fully navigable with a game controller. This app removes the hassle of using a browser by letting you launch straight into YouTube TV as a native app — no keyboard, no mouse, no distractions.
 
 Built using Nativefier and Electron, Youtube4Steam brings seamless, full-screen entertainment to your living room setup.
 
-Key Features
+##Key Features
 🎮 Optimized for controller use in Big Picture Mode
 
 📺 Launches YouTube TV directly from your Steam library
@@ -16,7 +16,7 @@ Key Features
 
 🐧 Linux port coming soon
 
-Getting Started
+##Getting Started
 No build steps required — this release comes prepackaged and ready to go.
 
 Add to Steam
@@ -32,7 +32,7 @@ Properties... → Set a custom name
 
 Change Icon / Artwork → Use the included branding assets (found in the artwork/ folder)
 
-Controller Setup
+##Controller Setup
 To enable smooth navigation:
 
 Open Steam Big Picture Mode
@@ -51,5 +51,5 @@ Start for menu, Back for options
 
 💡 Tip: YouTube TV already supports most gamepad inputs — no external tools required.
 
-Feedback
+##Feedback
 Having trouble or suggestions? Reach out via GitHub or Steam Discussions (if applicable). Controller mappings may vary slightly depending on your hardware.
